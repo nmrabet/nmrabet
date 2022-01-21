@@ -1,24 +1,19 @@
-### Hi there 👋
+### Hi there, I am Nesrine Mrabet - React Developer 👋
 
-- [Profile](https://github.com/nmrabet "Nesrine Mrabet")
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nmrabet)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nmrabet)
+&nbsp;
+
+
+- 📫 How to reach me:
 - [Email](mailto:nesrinemrabetnm@gmail.com?subject=Hi "Hi!")
 - [Website](https://nmrabet.me "Welcome")
 
-<!--
-**nmrabet/nmrabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on eveloping small and medium web apps, animations, and coding interface layouts. 
+As a Frontend Developer, I create thoughtful and inclusive experiences that adhere to web standards.
+- 🌱 I’m currently learning Solidity
+- 😄 Pronouns: Sher/Her
+- ⚡ Fun fact: I am a self-taught developer, with a solid background in Marketing/copywriting 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<a href="https://app.daily.dev/Nanouss01"><img src="https://api.daily.dev/devcards/72b1bd2bae054ad39dae9dcdb4e85efe.png?r=i89" width="400" alt="Nesrine Mrabet's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/Nanouss01"><img src="https://api.daily.dev/devcards/72b1bd2bae054ad39dae9dcdb4e85efe.png?r=i89" width="400" alt="Nesrine Mrabet's Dev Card"/></a>
