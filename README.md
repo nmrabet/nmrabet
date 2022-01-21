@@ -10,7 +10,7 @@
 - [Email](mailto:nesrinemrabetnm@gmail.com?subject=Hi "Hi!")
 - [Website](https://nmrabet.me "Welcome")
 
-- 🔭 I’m currently working on eveloping small and medium web apps, animations, and coding interface layouts. 
+- 🔭 I’m currently working on developing small and medium web apps, animations, and coding interface layouts. 
 As a Frontend Developer, I create thoughtful and inclusive experiences that adhere to web standards.
 - 🌱 I’m currently learning Solidity
 - 😄 Pronouns: Sher/Her
