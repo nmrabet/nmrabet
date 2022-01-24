@@ -16,4 +16,6 @@ As a Frontend Developer, I create thoughtful and inclusive experiences that adhe
 - 😄 Pronouns: Sher/Her
 - ⚡ Fun fact: I am a self-taught developer, with a solid background in Marketing/copywriting 
 
+
+
 <a align="right" href="https://app.daily.dev/Nanouss01"><img src="https://api.daily.dev/devcards/72b1bd2bae054ad39dae9dcdb4e85efe.png?r=i89" width="400" alt="Nesrine Mrabet's Dev Card"/></a>
