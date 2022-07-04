@@ -8,7 +8,7 @@
 
 - 📫 How to reach me:
 - [Email](mailto:nesrinemrabetnm@gmail.com?subject=Hi "Hi!")
-- [Website](https://nmrabet.me "Welcome")
+- [Website](https://techinked.com "Welcome")
 
 - 🔭 I’m currently working on developing small and medium web apps, animations, and coding interface layouts. 
 As a Frontend Developer, I create thoughtful and inclusive experiences that adhere to web standards.
