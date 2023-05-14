@@ -1,4 +1,4 @@
-### Hi there, I am Nesrine Mrabet - React Developer 👋
+### Hi there, I am Nesrine Mrabet - Frontend Developer | React.js 👋
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nmrabet)
 &nbsp;
